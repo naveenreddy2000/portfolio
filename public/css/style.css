@@ -1,0 +1,28 @@
+
+#home{
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.media{
+    background-color: rgba(250,250,250,0.8);
+}
+
+#name{
+    background-color: rgba(156,175,84,0.5);
+}
+
+#phone{
+    background-color: rgba(56,15,84,0.5);
+}
+
+#email{
+    background-color: rgba(15,75,184,0.5);
+}
+
+#cd{
+    max-height: 40%;
+}
+
+.col-sm-4{
+    text-align: center;
+}
